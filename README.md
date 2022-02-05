@@ -45,5 +45,10 @@ pkg install python git -y && pip install pillow && git clone https://github.com/
 <img src="https://k.top4top.io/p_2167euhft1.jpg">
 <img src="https://l.top4top.io/p_2167gfsfk2.jpg">
 
-
+<br>
 # Enjoy 💞💞
+<br><br>
+<h3><b><i>Visitors :</i></b></h3>
+
+
+![Visitor Count](https://profile-counter.glitch.me/Toxic-Noob/count.svg)
