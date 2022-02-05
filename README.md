@@ -1,4 +1,5 @@
-# Convert Your Pictures/Logos into ASCII Art
+# Ascii_Logo V2.1
+Convert Your Pictures/Logos into ASCII Art
 
 # Disctiption:
 <big>Using this Tool, You can convert your Photos and Logos into ASCII Art..
